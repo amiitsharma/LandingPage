@@ -1,0 +1,95 @@
+#d1
+{
+    position: relative;
+    top:-20px;
+    height: 720px;
+    background: #eb5757; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #eb5757, #000000); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #eb5757, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: url(https://source.unsplash.com/2000x720/?tech) no-repeat center; 
+}
+#d1>h3
+{
+    text-align: center;
+    color:white;
+}
+#d1 p
+{
+    
+  text-align: center;
+  color:white;
+}
+#d2 div
+{
+    background-color: azure;
+    margin-top:3px;
+    box-sizing: border-box;
+    height:405px;
+    border:2px solid black;
+    width:33%;
+  display: inline-block;
+}
+#d2 h2
+{
+    text-align: center;
+}
+img
+{
+    border: 1px solid black;
+    height:259px;
+    width:100%;
+}
+#foot
+{
+    height:50px;
+    background-color: darkslategray;
+}
+#foot>p
+{
+    font-weight: bold;
+    color: darkgoldenrod;
+    padding-top: 1%;
+    text-align: center;
+}
+nav
+{
+    height:60px;
+    background-color: darkslategray;
+}
+nav>h2
+{
+    color: darkorange;
+    padding-top: 1%;
+}
+nav #d4
+{
+    border-radius: 5%;
+    background-color: lime;
+    height:30px;
+    width: 100px;
+    position: absolute;
+    left:80%;
+    top:4%;
+    color:white;
+    font-size: 25px;
+}
+#d4>.p1
+{
+    padding:20%;
+}
+nav #d5
+{
+    border-radius: 5%;
+    background-color: lime;
+    height:30px;
+    width: 100px;
+    position: absolute;
+    left:90%;
+    top:4%;
+    color:white;
+    font-size: 25px;
+}
+#d5>.p1
+{
+    padding:12%;
+}
